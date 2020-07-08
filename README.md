@@ -6,3 +6,7 @@ This is an application that returns nearby Covid test locations when the User in
 - Shaheed: Ideation, Create Documentation, Site Structure, Presentation, Version Control
 
 ## Project Overview:
+
+## How to Use:
+
+## Technology Used:
